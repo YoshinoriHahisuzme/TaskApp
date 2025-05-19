@@ -129,11 +129,6 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" ambiguous="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Cgi-vv-qJ5">
-                                <rect key="frame" x="10" y="219" width="373" height="34"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits"/>
-                            </textField>
                             <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="4c0-0i-Q2n">
                                 <rect key="frame" x="10" y="219" width="373" height="34"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
@@ -149,12 +144,10 @@
                             <constraint firstItem="CEk-KZ-UZ2" firstAttribute="top" secondItem="F1g-SY-ouv" secondAttribute="bottom" constant="10" id="51f-6k-wiI"/>
                             <constraint firstItem="48m-qA-HL3" firstAttribute="leading" secondItem="9iy-i6-TbY" secondAttribute="leading" constant="10" id="AH6-Vp-EMB"/>
                             <constraint firstItem="9iy-i6-TbY" firstAttribute="trailing" secondItem="48m-qA-HL3" secondAttribute="trailing" constant="10" id="Dmf-KX-c4E"/>
-                            <constraint firstItem="Cgi-vv-qJ5" firstAttribute="leading" secondItem="9iy-i6-TbY" secondAttribute="leading" constant="10" id="GhL-pa-adP"/>
                             <constraint firstItem="CEk-KZ-UZ2" firstAttribute="leading" secondItem="9iy-i6-TbY" secondAttribute="leading" id="Nr0-6S-brd"/>
                             <constraint firstItem="uqj-87-fR5" firstAttribute="top" secondItem="E71-NZ-Fhg" secondAttribute="bottom" constant="10" id="RkS-Lk-5b6"/>
                             <constraint firstItem="4c0-0i-Q2n" firstAttribute="top" secondItem="Z3g-bt-42E" secondAttribute="bottom" constant="10" id="S6c-GK-MJ7"/>
                             <constraint firstItem="E71-NZ-Fhg" firstAttribute="leading" secondItem="9iy-i6-TbY" secondAttribute="leading" constant="10" id="UtN-cr-gW8"/>
-                            <constraint firstItem="9iy-i6-TbY" firstAttribute="trailing" secondItem="Cgi-vv-qJ5" secondAttribute="trailing" constant="10" id="XAg-nK-8aC"/>
                             <constraint firstItem="F1g-SY-ouv" firstAttribute="top" secondItem="48m-qA-HL3" secondAttribute="bottom" constant="10" id="abb-vb-dzP"/>
                             <constraint firstItem="uqj-87-fR5" firstAttribute="leading" secondItem="9iy-i6-TbY" secondAttribute="leading" constant="10" id="cqI-Aw-9Qq"/>
                             <constraint firstItem="9iy-i6-TbY" firstAttribute="trailing" secondItem="Z3g-bt-42E" secondAttribute="trailing" constant="10" id="eyu-bl-sz4"/>
